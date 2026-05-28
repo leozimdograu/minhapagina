@@ -20,6 +20,12 @@ body {
     padding: 20px;
 }
 
+h1{
+    color: white;
+    font-size: 40px;
+    margin-top: 20px;
+}
+
 .logo {
     width: 80px;
 }
