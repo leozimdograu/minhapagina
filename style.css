@@ -21,9 +21,16 @@ body {
 }
 
 .logo {
-    width: 20px;
+    width: 80px;
 }
 
+.sobre-mim{
+    background: #4b5694;
+    color: black;
+    padding: 20px;
+    border-radius: 15px;
+    width: 500px;
+}
 .img_foto{
     width: 250px;
     height: auto;
