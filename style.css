@@ -24,6 +24,10 @@ body {
     width: 20px;
 }
 
+.img_foto{
+    width: 250px;
+    height: auto;
+}
 .titulo-site {
     font-size: 60px;
 }
